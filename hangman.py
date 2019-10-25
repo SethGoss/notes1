@@ -42,7 +42,7 @@ while turns > 0:
 		wrong.append(letter)
 
 
-	print(myword)
+print(myword)
 
 end = 0
 if turns == end:
